@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MarbleAssignment/static/css/main.6850eb6f.css",
+    "main.js": "/MarbleAssignment/static/js/main.b2a18880.js",
+    "static/media/audio1.svg": "/MarbleAssignment/static/media/audio1.b6eaf55fca7e2f9d3233d9d918072b63.svg",
+    "static/media/image16.png": "/MarbleAssignment/static/media/image16.2ac1cb115f32daed74d0.png",
+    "static/media/Avatar5.png": "/MarbleAssignment/static/media/Avatar5.6b0a79f67298ac9b59fb.png",
+    "static/media/Avatar2.png": "/MarbleAssignment/static/media/Avatar2.e09ebf5cf93315d41dca.png",
+    "static/media/Avatar3.png": "/MarbleAssignment/static/media/Avatar3.18ec68c25d3777f7c629.png",
+    "static/media/Avatar4.png": "/MarbleAssignment/static/media/Avatar4.d89975e9998d4965ce80.png",
+    "static/media/Avatar1.png": "/MarbleAssignment/static/media/Avatar1.e53d8358c105d2ada629.png",
+    "static/media/Avatar6.png": "/MarbleAssignment/static/media/Avatar6.afb9d4e2a223179b53b8.png",
+    "static/media/Button.png": "/MarbleAssignment/static/media/Button.cb02a63d0e55d68819b4.png",
+    "static/media/TiemposHeadline-Semibold.woff": "/MarbleAssignment/static/media/TiemposHeadline-Semibold.0c6fb2cc0684448fe437.woff",
+    "static/media/TiemposHeadline-Semibold.woff2": "/MarbleAssignment/static/media/TiemposHeadline-Semibold.c8a37cf3ec6f17286ab9.woff2",
+    "static/media/BannerBackground.svg": "/MarbleAssignment/static/media/BannerBackground.d6b5b6bf254d0b3d3b7c.svg",
+    "index.html": "/MarbleAssignment/index.html",
+    "static/media/Circular.svg": "/MarbleAssignment/static/media/Circular.279f7eb770c496ffe588.svg",
+    "static/media/Circular1.svg": "/MarbleAssignment/static/media/Circular1.0abae20942893bfaff23.svg",
+    "main.6850eb6f.css.map": "/MarbleAssignment/static/css/main.6850eb6f.css.map",
+    "main.b2a18880.js.map": "/MarbleAssignment/static/js/main.b2a18880.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6850eb6f.css",
+    "static/js/main.b2a18880.js"
+  ]
+}
